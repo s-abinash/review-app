@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df188ad8-11e1-4eef-bb1e-385246960ef6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metro.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aws-exports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/getReviews.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/counterStore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.expo-shared/assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/adaptive-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/adaptive-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/NunitoSans-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/NunitoSans-Bold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/NunitoSans-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/NunitoSans-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/game_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/game_bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/heart_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/heart_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/rating-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/rating-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/rating-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/rating-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/rating-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/rating-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/rating-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/rating-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/rating-5.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/rating-5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/splash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/splash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/aboutStack.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/aboutStack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/drawer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/drawer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/homeStack.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/homeStack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/about.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/about.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/reviewDetails.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/reviewDetails.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/reviewForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/reviewForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/card.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/card.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/global.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/global.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25WKKABQ9ktXkDqWf5zEev6Dk0k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Development\ReactNative\Learning\review\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="json-server" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="json-server" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.start" />
+      <item itemvalue="npm.json-server" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df188ad8-11e1-4eef-bb1e-385246960ef6" name="Changes" comment="" />
+      <created>1645637338763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645637338763</updated>
+      <workItem from="1645637340215" duration="165000" />
+      <workItem from="1645637773163" duration="859000" />
+      <workItem from="1645675718936" duration="1357000" />
+      <workItem from="1645677105151" duration="4765000" />
+      <workItem from="1645683160913" duration="6119000" />
+      <workItem from="1645693404096" duration="2567000" />
+      <workItem from="1645718039465" duration="3957000" />
+      <workItem from="1645761038976" duration="3106000" />
+      <workItem from="1645771811450" duration="1196000" />
+      <workItem from="1646020834478" duration="7214000" />
+      <workItem from="1646104882577" duration="960000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
